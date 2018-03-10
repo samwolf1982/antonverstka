@@ -1,0 +1,49 @@
+.container-fluid.container-slider {
+  /********************************/
+  /*       Slides backgrounds     */
+  /********************************/
+}
+.container-fluid.container-slider #first-slider .slide1 {
+  background-image: url('../image/verstka/sliders/luxury-living-room.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container-fluid.container-slider #first-slider .slide2 {
+  background-image: url(http://s20.postimg.org/uxf8bzlql/image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container-fluid.container-slider #first-slider .slide3 {
+  background-image: url(http://s20.postimg.org/el56m97f1/image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container-fluid.container-slider #first-slider .slide4 {
+  background-image: url(http://s20.postimg.org/66pjy66dp/image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.category-block {
+  background-color: #f5f5f5;
+}
+.category-block .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.category-block .simple_category {
+  padding: 1em;
+  flex-basis: 225px;
+}
+.category-block .simple_category a:after {
+  content: url('../image/verstka/sliders/arrow.png');
+  position: relative;
+  left: 12px;
+  top: 4px;
+}
+.category-block .simple_category a {
+  font-size: 16px;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14581cf7-16e3-4cd3-8f87-944d844e67a1" name="antonverstka" url="http://lb292605.ftp.tools">
+        <fileTransfer host="lb292605.ftp.tools" port="21" rootFolder="/domashka.in.ua/verstkaanton">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
